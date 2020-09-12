@@ -1,0 +1,1 @@
+Trying to make first git project, a calculator.
